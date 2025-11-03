@@ -16,6 +16,7 @@
 - **Automação:** Postman, SoapUI
 - **Banco de Dados:** SQL
 - **Sistemas Operacionais:** Linux (RedHat), Windows
+- **Linguagens:** Java,Python
 
 📫 **Contato:**
 - **Email:** juniorcabralferreira2@gmail.com
