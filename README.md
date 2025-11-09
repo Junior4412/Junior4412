@@ -1,23 +1,48 @@
-# 👋 Olá, sou Roberto Cabral! 
-### Analista de Middleware | DevOps Enthusiast | Kubernetes | CI/CD | Docker 
+# 👋 Olá! Sou Roberto Cabral  
 
-🚀 Tenho experiência em:
-- Administração de servidores de aplicação como Weblogic, Apache, e Nginx.
-- Automação de deploys e cenários de testes com SoapUI, Postman e Apigee.
-- Configuração de pipelines CI/CD utilizando Docker e Kubernetes.
+🎓 **Estudante de Java** | 💻 **Em transição para Desenvolvedor Jr** | 🚀 **Apaixonado por tecnologia e automação**
 
-🎯 Atualmente:
-- Estudo Java, para a transição de Dev Jr.
-- Desenvolvimento de projetos pessoais para orquestração de contêineres.
+---
 
-💼 **Habilidades Técnicas**:
-- **Middleware:** Weblogic, Apache, WebMethods, Nginx
-- **DevOps:** Docker, Kubernetes, Jenkins, GitLab CI/CD
-- **Automação:** Postman, SoapUI
-- **Banco de Dados:** SQL
-- **Sistemas Operacionais:** Linux (RedHat), Windows
-- **Linguagens:** Java,Python
+## 🔍 Sobre mim  
+Atualmente, estou em transição da área de **Middleware/DevOps** para o **Desenvolvimento Java**.  
+Tenho experiência com automação, servidores de aplicação e containers, e estou aprofundando meus conhecimentos em **programação orientada a objetos**, **Spring Boot** e **boas práticas de desenvolvimento**.  
 
-📫 **Contato:**
-- **Email:** juniorcabralferreira2@gmail.com
-- **LinkedIn:** [Junior Cabral](https://www.linkedin.com/in/juniorcabral-4412/)
+---
+
+## 💡 O que estou estudando atualmente  
+- Fundamentos e sintaxe do **Java**  
+- **Programação Orientada a Objetos (POO)**  
+- **Spring Boot** e APIs REST  
+- Banco de Dados **SQL**  
+- Versionamento de código com **Git e GitHub**  
+
+---
+
+## 🧠 Experiência anterior  
+- Administração de servidores (**WebLogic**, **Apache**, **Nginx**)  
+- Automação de testes e deploys (**SoapUI**, **Postman**, **Apigee**)  
+- Integração contínua com **Docker**, **Kubernetes** e **Jenkins**  
+- Suporte a ambientes **Linux (RedHat)** e **Windows**  
+
+---
+
+## ⚙️ Tecnologias & Ferramentas  
+**Linguagens:** Java, Python  
+**DevOps / Middleware:** Docker, Kubernetes, Jenkins, WebLogic, Apache, Nginx  
+**Banco de Dados:** SQL  
+**Automação:** Postman, SoapUI  
+**Sistemas:** Linux, Windows  
+
+---
+
+## 🧩 Projetos em desenvolvimento  
+- 🟢 Aplicações Java para estudos (console e web)  
+- ⚙️ Automação de ambientes com Docker  
+- ☁️ Orquestração de containers e pipelines CI/CD  
+
+---
+
+## 📫 Contato  
+📧 **juniorcabral647@gmail.com**  
+🔗 [**LinkedIn: Junior Cabral**](https://www.linkedin.com/in/junior-devops/)  
