@@ -7,7 +7,7 @@
 - Configuração de pipelines CI/CD utilizando Docker e Kubernetes.
 
 🎯 Atualmente:
-- Estudo Kubernetes e CI/CD para transição para a área de DevOps.
+- Estudo Java, para a transição de Dev Jr.
 - Desenvolvimento de projetos pessoais para orquestração de contêineres.
 
 💼 **Habilidades Técnicas**:
