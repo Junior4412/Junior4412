@@ -1,48 +1,96 @@
-# 👋 Olá! Sou Roberto Cabral  
+# Olá, eu sou Roberto Cabral Ferreira Junior 👋
 
-🎓 **Estudante de Java** | 💻 **Em transição para Desenvolvedor Jr** | 🚀 **Apaixonado por tecnologia e automação**
+### Analista de Sistemas Sênior | Middleware | DevOps | Cloud & Containers
 
----
+Profissional de tecnologia com experiência em infraestrutura, administração de ambientes Linux e Windows, middleware, observabilidade, automação e containers. Atualmente atuo como **Analista de Sistemas Sênior na Claro Brasil**, contribuindo para a sustentação e evolução de ambientes críticos, com foco em estabilidade, eficiência operacional e melhoria contínua.
 
-## 🔍 Sobre mim  
-Atualmente, estou em transição da área de **Middleware/DevOps** para o **Desenvolvimento Java**.  
-Tenho experiência com automação, servidores de aplicação e containers, e estou aprofundando meus conhecimentos em **programação orientada a objetos**, **Spring Boot** e **boas práticas de desenvolvimento**.  
+Também desenvolvo projetos de software para ampliar minha experiência em engenharia, arquitetura frontend, APIs, versionamento e deploy contínuo.
 
 ---
 
-## 💡 O que estou estudando atualmente  
-- Fundamentos e sintaxe do **Java**  
-- **Programação Orientada a Objetos (POO)**  
-- **Spring Boot** e APIs REST  
-- Banco de Dados **SQL**  
-- Versionamento de código com **Git e GitHub**  
+## Experiência profissional
+
+### Claro Brasil — Analista de Sistemas Sênior
+
+- Administração, sustentação e evolução de ambientes de sistemas e middleware.
+- Atuação com servidores de aplicação, infraestrutura e plataformas críticas.
+- Análise de incidentes, troubleshooting e melhoria contínua da operação.
+- Trabalho com Linux, containers, monitoramento, automação e práticas DevOps.
+
+### Positivo S+ — Tecnologia e Operações
+
+- Atuação em ambientes desafiadores de infraestrutura e sistemas.
+- Suporte técnico, análise de problemas e manutenção da disponibilidade dos serviços.
+- Evolução profissional em operações, middleware, automação e ambientes corporativos.
+
+### Experiência técnica consolidada
+
+- Administração de servidores **WebLogic, Apache e Nginx**.
+- Suporte a ambientes **Linux (Red Hat)** e **Windows**.
+- Containers e orquestração com **Docker e Kubernetes**.
+- Integração e entrega contínuas com **Jenkins e pipelines CI/CD**.
+- Testes e integração de APIs com **Postman, SoapUI e Google Apigee**.
+- Monitoramento, diagnóstico de falhas e sustentação de ambientes.
 
 ---
 
-## 🧠 Experiência anterior  
-- Administração de servidores (**WebLogic**, **Apache**, **Nginx**)  
-- Automação de testes e deploys (**SoapUI**, **Postman**, **Apigee**)  
-- Integração contínua com **Docker**, **Kubernetes** e **Jenkins**  
-- Suporte a ambientes **Linux (RedHat)** e **Windows**  
+## Tecnologias e ferramentas
+
+| Área | Tecnologias |
+| --- | --- |
+| Sistemas e infraestrutura | Linux, Red Hat, Windows, Shell, Apache, Nginx |
+| Middleware e APIs | WebLogic, Google Apigee, APIs REST, Postman, SoapUI |
+| DevOps e containers | Docker, Kubernetes, Jenkins, CI/CD, Git, GitHub |
+| Desenvolvimento | Java, Python, JavaScript, TypeScript, React, Spring Boot |
+| Dados | SQL |
+| Frontend e deploy | Vite, Tailwind CSS, Zustand, React Router, Vercel |
 
 ---
 
-## ⚙️ Tecnologias & Ferramentas  
-**Linguagens:** Java, Python  
-**DevOps / Middleware:** Docker, Kubernetes, Jenkins, WebLogic, Apache, Nginx  
-**Banco de Dados:** SQL  
-**Automação:** Postman, SoapUI  
-**Sistemas:** Linux, Windows  
+## Projetos em destaque
+
+### [BiblioVerse](https://github.com/Junior4412/biblioverse)
+
+Plataforma social para leitores e bibliotecas, criada com React, TypeScript, Vite e Tailwind CSS. Inclui feed social, resenhas, avaliações, catálogo, perfis, dashboard de leitura, interface responsiva e modo escuro.
+
+### [Kubernetes Examples](https://github.com/Junior4412/kubernetes-examples)
+
+Exemplos práticos de Kubernetes e orquestração de containers, com foco em estudos e aplicação de conceitos DevOps.
+
+### [Gerenciador de Tarefas](https://github.com/Junior4412/GerenciadorTarefas)
+
+Aplicação criada para praticar fundamentos de Java e organização de tarefas.
+
+### CI/CD com Docker e Kubernetes
+
+Projeto de implementação de pipelines CI/CD para automatizar deploys com Docker e Kubernetes, buscando entregas mais rápidas, consistentes e seguras.
 
 ---
 
-## 🧩 Projetos em desenvolvimento  
-- 🟢 Aplicações Java para estudos (console e web)  
-- ⚙️ Automação de ambientes com Docker  
-- ☁️ Orquestração de containers e pipelines CI/CD  
+## Formação e desenvolvimento contínuo
+
+- MBA USP/Esalq.
+- Teste de Software Manual: do planejamento à execução — Udemy.
+- Kubernetes Completo: Orquestração Docker + Projeto DevOps — Udemy.
+- DevOps Mão na Massa: Docker, Kubernetes e Rancher — Udemy.
+- Implantando e Gerenciando APIs com Google Apigee — Udemy.
+- Python 3: do básico ao avançado — Udemy.
+- Linux para Desenvolvedores — Udemy.
+- Gerenciamento de Processos com Pipefy.
+- Liderança na Gestão de Equipes — Sebrae.
 
 ---
 
-## 📫 Contato  
-📧 **juniorcabral647@gmail.com**  
-🔗 [**LinkedIn: Junior Cabral**](https://www.linkedin.com/in/junior-devops/)  
+## Idiomas
+
+- Inglês: básico a intermediário.
+
+---
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/junior-devops](https://www.linkedin.com/in/junior-devops/)
+- E-mail: [juniorcabral647@gmail.com](mailto:juniorcabral647@gmail.com)
+- GitHub: [github.com/Junior4412](https://github.com/Junior4412)
+
+> Aberto a conexões, colaboração em projetos e troca de conhecimento sobre sistemas, middleware, DevOps, cloud e desenvolvimento.
